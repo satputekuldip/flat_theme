@@ -6,7 +6,7 @@
             <li data-target="#main-slider" data-slide-to="2"></li>
         </ol>
         <div class="carousel-inner">
-            <div class="item active" style="background-image: url(images/slider/bg1.jpg)">
+            <div class="item active" style="background-image: url(images/slider/bg4.jpg)">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
@@ -18,7 +18,7 @@
                     </div>
                 </div>
             </div><!--/.item-->
-            <div class="item" style="background-image: url(images/slider/bg2.jpg)">
+            <div class="item" style="background-image: url(images/slider/bg5.jpg)">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
@@ -32,7 +32,27 @@
                     </div>
                 </div>
             </div><!--/.item-->
-            <div class="item" style="background-image: url(images/slider/bg3.jpg)">
+            <div class="item" style="background-image: url(images/slider/bg6.jpg)">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="carousel-content centered">
+                                <h2 class="animation animated-item-1">Powerful and Responsive Web Design Theme</h2>
+                                <p class="animation animated-item-2">Pellentesque habitant morbi tristique senectus et netus et malesuada fames</p>
+                                <a class="btn btn-md animation animated-item-3" href="#">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 hidden-xs animation animated-item-4">
+                            <div class="centered">
+                                <div class="embed-container">
+                                    <iframe src="//player.vimeo.com/video/69421653?title=0&amp;byline=0&amp;portrait=0&amp;color=a22c2f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/.item-->
+            <div class="item" style="background-image: url(images/slider/bg7.jpg)">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6">
